@@ -9,4 +9,5 @@ df = pd.DataFrame(data, index=['a', 'b', 'c'])
 
 
 df.loc['b']     # Gets the row with label 'b'
-print(df.iloc[1])     
+print(df.iloc[1])     # Gets the second row (index 1)
+ls
